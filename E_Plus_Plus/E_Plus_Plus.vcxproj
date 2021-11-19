@@ -146,7 +146,6 @@
     <ClInclude Include="h_e_conditions.h" />
     <ClInclude Include="h_e_iostream.h" />
     <ClInclude Include="h_e_namespaces.h" />
-    <ClInclude Include="h_e_operators.h" />
     <ClInclude Include="h_e_variables.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

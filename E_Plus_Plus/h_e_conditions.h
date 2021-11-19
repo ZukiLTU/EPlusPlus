@@ -1,3 +1,4 @@
+//CONDITIONS
 #pragma once
 #define e if
 #define ee else

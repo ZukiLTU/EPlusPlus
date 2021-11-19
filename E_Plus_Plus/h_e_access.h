@@ -1,4 +1,4 @@
-#pragma once//26
-#define eeeeeeeeeeeeeeeeeeeeeeee public
-#define eeeeeeeeeeeeeeeeeeeeeeeee private
-#define eeeeeeeeeeeeeeeeeeeeeeeeee protected
+#pragma once//28, access
+#define eeeeeeeeeeeeeeeeeeeeeeeee public
+#define eeeeeeeeeeeeeeeeeeeeeeeeee private
+#define eeeeeeeeeeeeeeeeeeeeeeeeeee protected

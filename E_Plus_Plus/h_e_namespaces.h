@@ -1,4 +1,4 @@
-#pragma once//start 11
+#pragma once//start 11, namespaces
 #define eeeeeeeeeee namespace
 #define eeeeeeeeeeee std
 #define eeeeeeeeeeeee using
