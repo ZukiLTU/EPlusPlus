@@ -1,3 +1,0 @@
-﻿  E_Source.cpp
-F:\Programmation perso\C#\E_Plus_Plus\E_Plus_Plus\E_Source.cpp(4,27): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
-F:\Programmation perso\C#\E_Plus_Plus\E_Plus_Plus\E_Source.cpp(4,15): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'eeeeeeeeeee'
